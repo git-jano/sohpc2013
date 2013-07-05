@@ -1,0 +1,7 @@
+keys/*
+*.old
+*_vars.yml
+src/*
+*.crt
+*.key
+*sublime*
