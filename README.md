@@ -27,6 +27,8 @@ Week | Day | Description | Tutor
 ########  ##     ##  ######  ##     ## 
 -->
 
+module and environment
+
 Try to use Bash, always, as simplw as possible!
 
 [Advanced Bash Scripting](http://www.tldp.org/LDP/abs/html)
@@ -37,7 +39,7 @@ Try to use Bash, always, as simplw as possible!
     #!/usr/bin/tcl
     #!/bin/sed -f
     #!/bin/awk -f
-    #!/user/bin/env python
+    #!/usr/bin/env python
     #!/bin/rm
     #!/bin/more
     ...
@@ -210,3 +212,8 @@ Download the [example files](http://www.mcc.uiuc.edu/summerschool/2005/tutorial/
 ## Visualization
 
 http://onlinelibrary.wiley.com/doi/10.1002/qua.24480/abstract
+
+## Budapest
+
+[Party Map](http://444.hu/2013/05/24/bulinegyed-budapest/)
+
