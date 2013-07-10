@@ -217,3 +217,6 @@ http://onlinelibrary.wiley.com/doi/10.1002/qua.24480/abstract
 
 [Party Map](http://444.hu/2013/05/24/bulinegyed-budapest/)
 
+[Weather](http://www.idokep.hu/elorejelzes)
+
+
