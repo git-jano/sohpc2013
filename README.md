@@ -3,10 +3,10 @@
 Week | Day | Description | Tutor
 --- | --- | --- | ---
 1 | 1 | Linux Shell Tutorial or Adv. Scripting | Tamás
-1 | 2 | Basic HPC introduction                 | Gábor
-1 | 3 | Open Grid Scheduler (HPL job test)     | Gábor
-1 | 4 | ARC middleware (HPL job test)          | Gábor
-1 | 5 | VirtualGL/TurboVNC                     | Gábor
+1 | 2 | * Basic HPC introduction                 | Gábor
+1 | 3 | * Open Grid Scheduler (HPL job test)     | Gábor
+1 | 4 | * ARC middleware (HPL job test)          | Gábor
+1 | 5 | * VirtualGL/TurboVNC                     | Gábor
 2 | 1 | Quantum Espresso                       | Tamás
 2 | 2 | Quantum Espresso                       | Tamás
 2 | 3 | Siesta                                 | Tamás
@@ -58,7 +58,7 @@ Namespaces and libraries
     mother_child_func
     ./mother/child/func
 
-Do$$lar is what I need
+Do$$ar is what I need
 
     $* $! $? $$ $@ ${} $() a=${!b} {}
 
@@ -188,11 +188,6 @@ Walk the walk repl the repl or [write frameworks](https://github.com/hornos/shf3
 
 SSH rsync parallel rsync measure time
 
-
-GPU
-compile
-examples qe arc
-
 <!--
  ######  #### ########  ######  ########    ###    
 ##    ##  ##  ##       ##    ##    ##      ## ##   
@@ -203,9 +198,15 @@ examples qe arc
  ######  #### ########  ######     ##    ##     ##
 -->
 
+## SIESTA
+
 [How to run SIESTA](http://www.mcc.uiuc.edu/summerschool/2005/week_one_lectures/miguel_pruneda/How_to_run_SIESTA.pdf)
 
 http://www.mcc.uiuc.edu/summerschool/2005/week_one_lectures/miguel_pruneda/
 
 Download the [example files](http://www.mcc.uiuc.edu/summerschool/2005/tutorial/SIESTA/AllSiestaExamples.tar.gz)
 
+
+## Visualization
+
+http://onlinelibrary.wiley.com/doi/10.1002/qua.24480/abstract
