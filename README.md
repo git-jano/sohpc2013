@@ -12,10 +12,12 @@ Week | Day | Description | Tutor
 2 | 3 | Siesta                                 | Tamás
 2 | 4 | Siesta                                 | Tamás
 2 | 5 | VMD                                    | Tamás
-3 | 1 | Advanced Scripting                     |
-3-4 | * | Plan                                 | 
-4-7 | * | Explore visualisation methods        |
-8   | * | Finalise report                      |
+3 | 22 July | Compiling and inputs                   |
+4 | 29 July | Benchmarking and GPUs                  | 
+5 | 5 Aug | Calculations                           |
+6 | 12 Aug | Analysis                               |
+7 | 18 Aug | Visualization                          |
+8 | 26 Aug | Video and report                       |
 
 <!--
 ########     ###     ######  ##     ## 
@@ -212,6 +214,8 @@ Download the [example files](http://www.mcc.uiuc.edu/summerschool/2005/tutorial/
 ## Visualization
 
 http://onlinelibrary.wiley.com/doi/10.1002/qua.24480/abstract
+
+[VMD](https://www-s.ks.uiuc.edu/Training/Tutorials/vmd/tutorial-html)
 
 ## Budapest
 
