@@ -4,7 +4,7 @@ Week | Day | Description | Tutor
 --- | --- | --- | ---
 1 | 1 | Linux Shell Tutorial or Adv. Scripting | Tamás
 1 | 2 | * Basic HPC introduction                 | Gábor
-1 | 3 | * Open Grid Scheduler (HPL job test)     | Gábor
+1 | 3 | * SLURM (HPL job test)                   | Gábor
 1 | 4 | * ARC middleware (HPL job test)          | Gábor
 1 | 5 | * VirtualGL/TurboVNC                     | Gábor
 2 | 1 | Quantum Espresso                       | Tamás
