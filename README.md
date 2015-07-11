@@ -223,4 +223,21 @@ http://onlinelibrary.wiley.com/doi/10.1002/qua.24480/abstract
 
 [Weather](http://www.idokep.hu/elorejelzes)
 
+## HPC manuals
+
+https://conference.niif.hu/event/3/session/23/contribution/25
+
+http://wiki.niif.hu/HPC
+
+https://www.niif.hu/szolgaltatasok/szuperszamitastechnika/niif_szuperszamitogep_szolgaltatas
+
+https://portal.hpc.niif.hu
+
+https://www.youtube.com/user/roczei
+
+https://prezi.com/user/roczei/
+
+https://prezi.com/5xpmabacayop/szuperszamitogep-tutorial/
+
+http://www.training.prace-ri.eu/
 
