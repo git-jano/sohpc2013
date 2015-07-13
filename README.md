@@ -31,7 +31,7 @@ Week | Day | Description | Tutor
 
 module and environment
 
-Try to use Bash, always, as simplw as possible!
+Try to use Bash, always, as simple as possible!
 
 [Advanced Bash Scripting](http://www.tldp.org/LDP/abs/html)
 
